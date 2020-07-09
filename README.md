@@ -1,4 +1,4 @@
-# ReactJS: Sync SessionStorage when opening a new browser tab
+# ReactJS: Sync SessionStorage arcoss browser tabs
 
 ## Project setup
 ```
